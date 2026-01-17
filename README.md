@@ -1,170 +1,317 @@
 <div align="center">
 
 ```
-     _____ _______  _______  _        _______ _____ _____ 
-    / ____|__   __||__   __|| |      |  _____|  ___/ ____|
-   | (___    | |      | |   | |      | |___  | |  | (___  
-    \___ \   | |      | |   | |      |  ___| |  \  \___ \ 
-    ____) |  | |      | |   | |___   | |____ | |\  ____) |
-   |_____/   |_|      |_|   |_____|  |______||_| \_|_____/ 
-                                                            
-               [ HARDWARE EXPLOITATION ]
-               [ FIRMWARE DEVELOPMENT  ]
-               [ IOT SECURITY RESEARCH ]
-```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=embedded+systems+%2B+hardware+hacking;building+firmware+for+cardputer;from+silicon+to+shell;let+the+fun+begin" alt="Typing SVG" />
+      |       |     __           
+   ___|_|__\ /|    /__\  __ __   
+  /__ | |  \X |   | ___|/__/__   
+   __/| |  / \|   |      __/__/  
+      |_      |    \__/          
+              |__|               
+                                 
+```
 
 </div>
 
----
-
-### `$ cat /proc/stxrless/info`
-
-```c
-typedef struct {
-    char *focus;
-    char *current_project;
-    char *stack[4];
-    char *domains[3];
-} hacker_t;
-
-hacker_t me = {
-    .focus = "Hardware Security & IoT Exploitation",
-    .current_project = "k0ri - CardPuter Firmware",
-    .stack = {"C/C++", "Rust", "Python", "Assembly"},
-    .domains = {"Embedded Systems", "RF Security", "Firmware RE"}
-};
-
-// No web shit. Real hardware, real exploits.
-```
-
-<div align="center">
-
-### **[ TOOLCHAIN ]**
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-
-</div>
-
----
-
-### `$ ls -la /projects/active/`
-
-<details>
-<summary><b>⚡ Current Work</b></summary>
-
-#### **k0ri** - CardPuter Firmware Framework
-> Custom firmware for M5Stack CardPuter focused on hardware security tools  
-> Status: `[████████░░] 80% - Active Development`  
-> Stack: C++, ESP-IDF, FreeRTOS
-
-**Features in development:**
-- RF signal analysis & replay attacks
-- WiFi deauth & packet injection
-- UART/I2C/SPI protocol analysis  
-- BadUSB payload delivery
-- NFC/RFID cloning utilities
-
-</details>
-
-<details>
-<summary><b>🔨 Hardware Arsenal</b></summary>
-
-```
-┌─────────────────────────────────────────┐
-│  M5Stack CardPuter    [PRIMARY]         │
-│  Flipper Zero         [RF TOOLS]        │
-│  ESP32 Dev Boards     [PROTOTYPING]     │
-│  Logic Analyzer       [PROTOCOL DEBUG]  │
-│  RTL-SDR              [RF ANALYSIS]     │
-└─────────────────────────────────────────┘
-```
-
-</details>
-
----
-
-### `$ ./research_areas.sh`
-
-```bash
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
- FIRMWARE EXPLOITATION
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
- [+] Reverse engineering embedded systems
- [+] Finding vulns in IoT firmware
- [+] UART/JTAG debugging & extraction
- 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
- WIRELESS SECURITY
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
- [+] WiFi attack vectors (deauth, PMKID)
- [+] Bluetooth/BLE exploitation
- [+] Sub-GHz RF protocol analysis
- 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
- HARDWARE HACKING
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
- [+] Physical access attacks
- [+] Side-channel analysis
- [+] Custom payload development
-```
-
----
-
-### `$ hexdump -C /dev/philosophy`
-
-```
-00000000  57 72 69 74 65 20 66 69  72 6d 77 61 72 65 2c 20  |Write firmware, |
-00000010  6e 6f 74 20 77 65 62 20  65 78 70 6c 6f 69 74 73  |not web exploits|
-00000020  0a 48 61 72 64 77 61 72  65 20 3e 20 73 6f 66 74  |.Hardware > soft|
-00000030  77 61 72 65 0a 52 65 61  6c 20 73 69 6c 69 63 6f  |ware.Real silico|
-00000040  6e 2c 20 72 65 61 6c 20  68 61 63 6b 73 0a        |n, real hacks.|
+```diff
+- WARNING: Unauthorized access to this profile is logged and monitored
++ You're already here. Too late to turn back now.
 ```
 
 ---
 
 <div align="center">
 
-### `$ uptime --stats`
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=16&duration=2000&pause=800&color=FF0000&center=true&vCenter=true&repeat=true&width=600&lines=hello%2C+friend.;you're+not+really+here.;neither+am+i.;but+we+both+know+that's+a+lie.)](https://git.io/typing-svg)
 
-![](https://github-readme-stats.vercel.app/api?username=ayaki102&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9)
+</div>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=ayaki102&theme=dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41)
+```
+┌──────────────────────────────────────────────────────────────────┐
+│ root@reality:~# whoami                                           │
+│ stxrless                                                         │
+│                                                                  │
+│ root@reality:~# cat /etc/passwd | grep purpose                  │
+│ purpose:x:1337:1337:hardware security researcher:/dev/null:/bin/sh│
+└──────────────────────────────────────────────────────────────────┘
+```
+
+### `// Identity is a construct`
+
+I don't do web exploits. That's for people who think SQL injection is still impressive.
+
+I write firmware that makes hardware do things it was never supposed to do.  
+I reverse engineer the silicon you trust.  
+I find the vulnerabilities manufacturers pray you'll never discover.
+
+**Current operation:** `k0ri` — turning a $60 CardPuter into something considerably more dangerous.
+
+---
+
+```
+root@reality:~# ls -la /home/stxrless/
+drwxr-xr-x  2 root root 4096 Jan 17 23:42 .
+drwxr-xr-x 18 root root 4096 Jan 15 14:33 ..
+-rw-------  1 root root  666 Jan 17 23:42 .exploits
+-rw-r--r--  1 root root 1337 Jan 17 21:15 .methods
+-rwxr-xr-x  1 root root 2048 Jan 17 19:33 k0ri_dev
+drwxr-xr-x  8 root root 4096 Jan 16 22:45 hardware_lab
+-rw-------  1 root root  512 Jan 17 11:08 .secrets
+```
+
+<details>
+<summary><code>root@reality:~# cat .methods</code></summary>
+
+```
+FIRMWARE EXPLOITATION
+├── Bootloader manipulation
+├── OTA update hijacking  
+├── Flash encryption bypass
+├── Secure boot circumvention
+└── RTOS kernel exploitation
+
+RF ATTACK VECTORS
+├── WiFi deauthentication
+├── PMKID hash capture
+├── BLE advertisement injection
+├── Sub-GHz replay attacks
+└── Rolling code vulnerabilities
+
+HARDWARE ACCESS
+├── UART shell persistence
+├── JTAG debug exploitation
+├── SPI flash extraction
+├── Voltage glitching
+└── Side-channel analysis
+
+The tools change. The methodology doesn't.
+```
+
+</details>
+
+---
+
+<div align="center">
+
+### `// Stack`
+
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Assembly](https://img.shields.io/badge/-ASM-654FF0?style=flat&logo=assemblyscript&logoColor=white)
+
+![ESP32](https://img.shields.io/badge/-ESP32-000000?style=flat&logo=espressif&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 </div>
 
 ---
 
-### `$ cat /var/log/recent.log`
+```python
+#!/usr/bin/env python3
+# k0ri_framework.py
+
+class K0ri:
+    """
+    CardPuter security framework.
+    Because sometimes you need more than a laptop.
+    """
+    
+    def __init__(self):
+        self.platform = "M5Stack CardPuter (ESP32-S3)"
+        self.purpose = "Hardware exploitation toolkit"
+        self.status = "active_development"
+        
+        self.capabilities = {
+            "wifi": ["deauth", "pmkid", "evil_twin", "packet_injection"],
+            "rf": ["replay_attack", "signal_analysis", "jamming"],
+            "hid": ["badusb", "keystroke_injection", "payload_delivery"],
+            "protocols": ["uart_analysis", "spi_sniffing", "i2c_debug"],
+            "nfc": ["mifare_crack", "uid_clone", "emulation"]
+        }
+    
+    def execute(self, target):
+        """
+        You know what this does.
+        I know you know.
+        """
+        return self.exploit(target)
+```
+
+**Progress:** `████████░░ 80%`
+
+---
+
+<details>
+<summary><code>root@reality:~# cat hardware_lab/inventory.txt</code></summary>
+
+```
+OPERATIONAL DEVICES
+-------------------
+[x] M5Stack CardPuter     ESP32-S3 | Primary development platform
+[x] Flipper Zero          STM32    | Multi-tool for RF/NFC/IR
+[x] HackRF One            SDR      | Software-defined radio
+[x] ESP32 DevKits         x5       | Prototyping & testing
+[x] Saleae Logic Pro      16ch     | Protocol analysis
+[x] RTL-SDR v3            USB      | RF spectrum monitoring
+[x] Bus Pirate            v4       | Hardware interface tool
+[x] JTAGulator            FPGA     | JTAG/SWD enumeration
+
+FABRICATION & TOOLS
+-------------------
+[x] Soldering station            | SMD rework capable
+[x] Hot air station              | Chip removal/replacement
+[x] Digital microscope           | PCB inspection
+[x] Multimeter + Oscilloscope    | Signal analysis
+[x] UV eraser                    | EPROM work (because vintage)
+
+The lab isn't about having expensive gear.
+It's about knowing what to do with it.
+```
+
+</details>
+
+---
+
+```
+root@reality:~# tail -f /var/log/operations.log
+```
+
+<details open>
+<summary><b>Recent activity</b></summary>
 
 ```log
-[2025-01-17 23:42] k0ri: Implemented WiFi packet injection module
-[2025-01-17 19:15] k0ri: Added NFC UID cloning functionality  
-[2025-01-17 14:33] Research: Analyzing ESP32 bootloader security
-[2025-01-16 22:18] k0ri: BadUSB HID payload engine complete
-[2025-01-16 08:47] Hardware: New CardPuter dev board arrived
+2025-01-17 23:42:18 [k0ri] WiFi deauth module: optimized for speed
+2025-01-17 21:15:33 [k0ri] BadUSB injection: tested on Windows/Linux/macOS
+2025-01-17 19:33:47 [research] ESP32 bootloader: found bypass method
+2025-01-17 14:22:51 [k0ri] NFC Mifare Classic: dictionary attack working
+2025-01-17 11:08:19 [hardware] Logic analyzer: integrated into workflow
+2025-01-16 22:45:03 [k0ri] SubGHz replay: captured rolling codes
+2025-01-16 18:30:44 [research] BLE pairing: bypass confirmed on IoT device
+2025-01-16 09:12:28 [k0ri] UART persistence: shell access maintained
+2025-01-15 23:17:55 [research] Voltage glitching: successful MCU bypass
+2025-01-15 19:42:11 [k0ri] OTA update: injection vector identified
+
+Every log entry is a lesson.
+Every failure is a step closer.
 ```
+
+</details>
 
 ---
 
 <div align="center">
 
-### **[ SIGNAL ]**
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayaki102)
-
 ```
-"If it runs code, it can be exploited"
+┌────────────────────────────────────────────────────────────┐
+│                      SYSTEM METRICS                        │
+└────────────────────────────────────────────────────────────┘
+```
+
+<img src="https://github-readme-stats.vercel.app/api?username=ayaki102&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&icon_color=ff0000&text_color=c9d1d9&bg_color=0d1117" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ayaki102&theme=transparent&hide_border=true&background=0d1117&ring=ff0000&fire=ff0000&currStreakLabel=ffffff&stroke=ffffff" width="48%" />
+
+</div>
+
+---
+
+```javascript
+// philosophy.js
+
+const reality = {
+  perception: "malleable",
+  security: "an illusion",
+  trust: "a vulnerability"
+};
+
+function truth() {
+  /* 
+   * Every device is exploitable.
+   * Every system has a backdoor.
+   * Every "secure" chip has already been broken by someone, somewhere.
+   * 
+   * The question isn't whether something can be hacked.
+   * The question is whether you're the one who figures out how.
+   */
+  return "Control is an illusion. But exploits are real.";
+}
+
+// We are the architects of our own reality.
+// We are the ones who break it.
 ```
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer&text=let%20the%20fun%20begin&fontSize=20&fontColor=00ff41&animation=twinkling" />
+<details>
+<summary><code>root@reality:~# cat /proc/threat_model</code></summary>
+
+```
+THREAT SURFACE ANALYSIS
+========================
+
+IoT Devices                 ███████████████████░  [CRITICAL]
+"Smart" Home Systems        ██████████████████░░  [CRITICAL]  
+Wireless Protocols          ████████████████░░░░  [HIGH]
+Embedded Systems            ███████████████░░░░░  [HIGH]
+RF Communications           ██████████████░░░░░░  [MEDIUM]
+Industrial Control Systems  ███████████████████░  [CRITICAL]
+
+ASSESSMENT: The things you trust most are the things I target first.
+
+Everything that connects is a target.
+Everything that "just works" has a backdoor.
+Everything that's "secure by design" was designed by someone who didn't think like me.
+```
+
+</details>
+
+---
+
+```
+root@reality:~# echo $DISCLAIMER
+```
+
+<div align="center">
+
+```
+╔════════════════════════════════════════════════════════════╗
+║                                                            ║
+║  This is for authorized security research only.            ║
+║  Educational purposes. Responsible disclosure.             ║
+║  Unauthorized access is illegal.                           ║
+║                                                            ║
+║  But you already knew that.                                ║
+║                                                            ║
+║  "The world is a dangerous place, not because of those    ║
+║   who do evil, but because of those who look on and do    ║
+║   nothing." — Someone who understood.                     ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+```
+root@reality:~# cat .signature
+```
+
+<div align="center">
+
+*hello, friend.*
+
+*I'm not here to save the world.*  
+*I'm here to show you how broken it already is.*
+
+**let the fun begin.**
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=ayaki102&color=red&style=flat-square&label=observers)
+
+`[CONNECTION TERMINATED]`
 
 </div>
